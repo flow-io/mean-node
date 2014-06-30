@@ -1,0 +1,54 @@
+{
+  "name": "flow-mean",
+  "version": "0.0.0",
+  "description": "Reduce transform stream which calculates the mean of streamed data.",
+  "author": {
+    "name": "Athan Reines",
+    "email": "athan@nodeprime.com"
+  },
+  "contributors": [
+    {
+      "name": "Athan Reines",
+      "email": "athan@nodeprime.com"
+    }
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kgryte/flow-mean.git"
+  },
+  "keywords": [
+    "stream",
+    "writable",
+    "readable",
+    "transform",
+    "flow",
+    "flow.io",
+    "mean",
+    "reduce",
+    "statistics",
+    "stats"
+  ],
+  "bugs": {
+    "url": "https://github.com/kgryte/flow-mean/issues"
+  },
+  "dependencies": {
+    "stream-combiner": "~0.2.0",
+    "flow-reduce": "~0.0.0",
+    "flow-map": "~0.0.0"
+  },
+  "devDependencies": {
+    "mocha": "1.x.x",
+    "chai": "1.x.x",
+    "stream-spec": "~0.3.5"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ]
+}
