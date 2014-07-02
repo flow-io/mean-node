@@ -1,6 +1,6 @@
 {
   "name": "flow-mean",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Reduce transform stream which calculates the mean of streamed data.",
   "author": {
     "name": "Athan Reines",
