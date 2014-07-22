@@ -18,7 +18,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kgryte/flow-mean.git"
+    "url": "git://github.com/flow-io/flow-mean.git"
   },
   "keywords": [
     "stream",
@@ -33,7 +33,7 @@
     "stats"
   ],
   "bugs": {
-    "url": "https://github.com/kgryte/flow-mean/issues"
+    "url": "https://github.com/flow-io/flow-mean/issues"
   },
   "dependencies": {
     "stream-combiner": "~0.2.0",
